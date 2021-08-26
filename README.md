@@ -1,7 +1,7 @@
 #ISIS1225 - Estructura de un proyecto
 
-Estudiante 1: Daniel Gomez
-Estudiante 2: Jenifer Arce
+Estudiante 1: Daniel Gomez | 201728920 | df.gomezb@uniandes.edu.co
+Estudiante 2: Jenifer Arce | 202014993 | j.arce@uniandes.edu.co
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
